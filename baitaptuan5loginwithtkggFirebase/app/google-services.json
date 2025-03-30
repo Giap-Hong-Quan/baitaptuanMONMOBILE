@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957969632365",
+    "project_id": "loginwithgg-b47fa",
+    "storage_bucket": "loginwithgg-b47fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957969632365:android:ab4d985901c76144494364",
+        "android_client_info": {
+          "package_name": "com.example.baitaptuan5_loginwithtkggfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957969632365-7orrh64okjgpu6triuh8e871vf04f4s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baitaptuan5_loginwithtkggfirebase",
+            "certificate_hash": "db1c5b267efcf3b7f255ada86102d11e554e3b60"
+          }
+        },
+        {
+          "client_id": "957969632365-veki8v7fbm2gbntin8kms1kqugrciv7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzvV9THNrjiK-QqALXk2eGUub7QJFSw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957969632365-veki8v7fbm2gbntin8kms1kqugrciv7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

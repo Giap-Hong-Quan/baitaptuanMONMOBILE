@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601502118976",
+    "project_id": "loginapp-60fb6",
+    "storage_bucket": "loginapp-60fb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601502118976:android:c31ddb9bf36095439ddba5",
+        "android_client_info": {
+          "package_name": "com.example.tuan5_baitaplop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601502118976-b5ksgv54gh0cdj16u7inh7jc47qjejnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3ASfgAQOvMJFZt3XFvZ3RIKAg5p7xCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601502118976-b5ksgv54gh0cdj16u7inh7jc47qjejnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
